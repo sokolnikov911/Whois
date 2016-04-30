@@ -53,3 +53,8 @@ You can then later update Whois using composer:
  ```bash
 composer.phar update
  ```
+ 
+ 
+## Requirements
+
+This class requires installed console 'whois' package for Unix/Linux system.
