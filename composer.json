@@ -1,0 +1,25 @@
+{
+  "name": "sokolnikov911/whois",
+  "type": "library",
+  "description": "Library for obtaining values from whois command",
+  "keywords": [
+    "whois",
+    "web service"
+  ],
+  "version": "1.0.0",
+  "homepage": "https://github.com/sokolnikov911/whois",
+  "authors": [
+    {
+      "name": "Petro Sokolnykov",
+      "email": "info@xyz.net.ua",
+      "homepage": "https://github.com/sokolnikov911"
+    }
+  ],
+  "require": {
+    "php": ">=5.5.0",
+    "whois": ">=5.0.0"
+  },
+  "autoload": {
+    "psr-4": { "sokolnikov911\\Whois": "src" }
+  }
+}
