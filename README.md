@@ -58,3 +58,8 @@ composer.phar update
 ## Requirements
 
 This class requires installed console 'whois' package for Unix/Linux system.
+
+
+## License
+
+This library is licensed under the MIT License.
