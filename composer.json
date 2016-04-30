@@ -17,8 +17,7 @@
     }
   ],
   "require": {
-    "php": ">=5.5.0",
-    "whois": "*"
+    "php": ">=5.5.0"
   },
   "autoload": {
     "psr-4": { "sokolnikov911\\Whois\\": "src" }
