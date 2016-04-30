@@ -25,12 +25,11 @@ class Whois {
         if (isset($dataArray)) $this->dataArray = $dataArray;
     }
 
-
     /**
      * @param string $property name of needle property
      * @return string property value
      */
-	public function getProperty($property) {
+    public function getProperty($property) {
         if (isset($this->dataArray[$property])) return $this->dataArray[$property];
 
         return false;
