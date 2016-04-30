@@ -20,6 +20,6 @@
     "whois": ">=5.0.0"
   },
   "autoload": {
-    "psr-4": { "sokolnikov911\\Whois": "src" }
+    "psr-4": { "sokolnikov911\\Whois\\": "src" }
   }
 }
