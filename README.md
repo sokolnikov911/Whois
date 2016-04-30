@@ -2,6 +2,10 @@ Whois, 'whois' command parser for PHP
 =====================================
 
 
+
+Simple values parser from console 'whois' command
+
+
 ## How to use
 
 
