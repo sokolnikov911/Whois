@@ -20,7 +20,7 @@ print $answer; // LVLT-GOGL-8-8-8
 Or, for obtaining 'Admin Email' of domain:
 
 ```php
-$whois = new Whois('8.8.8.8');
+$whois = new Whois('google.com');
 $answer = $whois->getProperty('admin email');
 print $answer; // dns-admin@google.com
 ```
